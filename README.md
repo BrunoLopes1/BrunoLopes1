@@ -1,7 +1,4 @@
-### Olá! Eu sou o Bruno Lopes
-
-- 🔭 Hoje estou cursando Ciencia da Computação
-- 🌱 Estudando e me proficionalizando na área de Ciência de Dados
+### Olá! Eu sou o Bruno Lopes estudante e um apreciador da programação!
 
 <div align="center">
   <a href="https://github.com/BrunoLopes1">
